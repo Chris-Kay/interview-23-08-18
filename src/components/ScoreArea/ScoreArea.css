@@ -1,0 +1,29 @@
+.score-area {
+    padding: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.score-area__team,
+.score-area__score {
+    display: block;
+}
+
+.score-area__team {
+    width: 50%;
+}
+
+.score-area__team:first-child {
+    text-align: right;
+}
+
+.score-area__score {
+    min-height: 35px;
+    min-width: 35px;
+    line-height: 35px;
+    background-color: yellow;
+    margin: 0 3px;
+    color: black;
+    text-align: center;
+}

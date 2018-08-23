@@ -1,0 +1,18 @@
+.team-scorers {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    width: 50%;
+}
+
+.team-scorers:first-child {
+    text-align: right;
+}
+
+.team-scorers__scorer {
+
+}
+
+.team-scorers__scorer:not(:last-child) {
+    margin-bottom: 0.2em;
+}

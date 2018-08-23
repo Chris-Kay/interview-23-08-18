@@ -1,0 +1,11 @@
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+.scoreboard {
+  background-color: green;
+  padding: 1rem;
+  font-size: calc(1rem * 1 + 0.5vw);
+  line-height: 1.2;
+  color: #fff;
+}

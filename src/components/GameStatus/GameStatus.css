@@ -1,0 +1,9 @@
+.game-status {
+    min-width: 84px;
+    text-align: center;
+}
+
+.game-status__point,
+.game-status__half-time {
+    display: block;
+}

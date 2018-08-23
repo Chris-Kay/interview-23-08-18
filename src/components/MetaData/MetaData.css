@@ -1,0 +1,16 @@
+.meta-data {
+ text-transform: uppercase;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ font-size: 0.7em;
+ padding: 0.5rem 0;
+}
+
+.meta-data__item {
+    padding: 0 0.5rem;
+}
+
+.meta-data__item--date {
+    border-right: 1px solid #0006;
+}

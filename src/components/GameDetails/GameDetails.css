@@ -1,0 +1,6 @@
+.game-details {
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    font-size: 0.8em;
+}
